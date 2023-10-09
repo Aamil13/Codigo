@@ -1,0 +1,12 @@
+.links{
+    transition: 0.5s all;
+}
+
+.links:hover .title{
+    color: #DC2626;
+    transition: 0.5s all;
+}
+.links:hover .arrow{
+    padding-right: 0;
+    transition: 0.5s all;
+}
